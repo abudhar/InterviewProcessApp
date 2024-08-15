@@ -1,7 +1,7 @@
 # InterviewProcessApp
 Software for multi Location Interview Process
 
-#Build
+# Build
 mvn clean install
 mvn spring-boot:run
 
